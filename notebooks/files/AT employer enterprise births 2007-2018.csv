@@ -1,0 +1,78 @@
+ÖNACE 2008;Industry sections and divisions;Enterprise births 2007;Enterprise births 2008;Enterprise births 2009;Enterprise births 2010;Enterprise births 2011;Enterprise births 2012;Enterprise births 2013;Enterprise births 2014;Enterprise births 2015;Enterprise births 2016;Enterprise births 2017;Enterprise births 2018
+B05;Mining of coal and lignite  ;0;0;0;0;0;0;0;0;0;0;0;0
+B06;Extraction of crude petroleum and natural gas  ;0;0;0;0;0;0;0;0;0;0;0;0
+B07;Mining of metal ores  ;1;0;0;0;0;0;0;0;0;0;1;0
+B08;Other mining and quarrying  ;9;11;18;7;9;9;7;4;2;3;4;4
+B09;Mining support service activities  ;2;1;0;1;3;1;5;1;1;1;1;2
+C10;Manufacture of food products  ;111;115;122;104;94;113;128;110;119;137;116;131
+C11;Manufacture of beverages  ;11;19;12;14;19;17;22;13;23;17;19;24
+C12;Manufacture of tobacco products  ;0;0;0;0;0;0;0;0;0;0;0;0
+C13;Manufacture of textiles  ;27;31;26;20;32;24;18;11;19;16;16;18
+C14;Manufacture of wearing apparel  ;32;29;41;35;45;51;45;30;43;34;29;34
+C15;Manufacture of leather and related products  ;9;8;12;4;7;5;7;9;8;8;16;6
+C17;Manufacture of paper and paper products  ;5;5;8;4;0;3;3;4;3;1;2;4
+C18;Printing and reproduction of recorded media  ;36;34;37;33;32;34;36;28;14;23;22;24
+C19;Manufacture of coke and refined petroleum products  ;0;0;0;1;0;1;0;1;0;0;0;0
+C20;Manufacture of chemicals and chemical products  ;23;12;16;14;19;17;20;17;18;12;15;16
+C21;Manufacture of basic pharmaceutical products and pharmaceutical preparations  ;4;3;2;4;3;1;4;7;5;10;3;6
+C22;Manufacture of rubber and plastic products  ;26;30;21;20;17;13;21;11;19;15;18;11
+C23;Manufacture of other non-metallic mineral products  ;63;49;53;45;58;42;41;36;40;36;40;42
+C24;Manufacture of basic metals  ;4;6;12;6;8;4;5;5;2;0;10;0
+C25;Manufacture of fabricated metal products, except machinery and equipment  ;230;182;181;141;155;157;112;169;112;128;117;127
+C26;Manufacture of computer, electronic and optical products  ;37;31;20;21;30;34;34;23;15;23;23;26
+C27;Manufacture of electrical equipment  ;13;25;25;19;17;17;20;19;17;13;23;16
+C28;Manufacture of machinery and equipment n.e.c.  ;74;45;46;58;49;56;44;48;32;32;41;31
+C29;Manufacture of motor vehicles, trailers and semi-trailers  ;10;17;11;15;15;6;14;12;8;4;10;11
+C30;Manufacture of other transport equipment  ;7;2;4;7;9;7;5;4;4;7;6;6
+C31;Manufacture of furniture  ;93;107;111;108;91;86;78;79;75;80;79;81
+C32;Other manufacturing  ;74;70;67;79;72;68;75;60;62;75;62;73
+C33;Repair and installation of machinery and equipment  ;106;106;89;109;112;108;101;101;116;120;97;108
+D35;Electricity, gas, steam and air conditioning supply  ;63;55;79;75;79;74;78;59;69;46;47;39
+E36;Water collection, treatment and supply  ;5;2;6;5;8;8;6;6;5;4;5;7
+E37;Sewerage  ;17;12;21;13;16;14;11;12;9;4;6;13
+E39;Remediation activities and other waste management services  ;0;2;1;1;1;0;0;3;2;3;1;0
+F41;Construction of buildings  ;322;349;314;346;362;326;440;402;318;339;329;379
+F42;Civil engineering  ;39;38;37;36;32;25;25;39;34;24;29;39
+F43;Specialised construction activities  ;1,704;1,818;1,844;1,81;1,941;1,895;1,826;1,671;1,644;1,662;1,705;1,559
+G45;Wholesale and retail trade and repair of motor vehicles and motorcycles  ;503;521;499;561;596;556;556;559;604;580;559;535
+G46;Wholesale trade, except of motor vehicles and motorcycles  ;1,359;1,406;1,461;1,457;1,534;1,445;1,306;1,317;1,179;1,172;1,12;1
+G47;Retail trade, except of motor vehicles and motorcycles  ;2,477;2,451;2,602;2,536;2,502;2,503;2,336;2,186;2,184;2,244;2,117;2,011
+H49;Land transport and transport via pipelines  ;1,042;1,091;1,026;946;986;874;828;831;806;875;908;917
+H50;Water transport  ;9;7;5;6;9;8;9;6;6;8;2;6
+H51;Air transport  ;24;8;11;15;7;15;13;4;10;4;3;7
+H52;Warehousing and support activities for transportation  ;88;81;73;81;75;75;71;60;69;70;59;75
+H53;Postal and courier activities  ;44;51;35;49;48;84;54;40;34;43;69;80
+I55;Accommodation  ;577;657;688;639;644;583;677;686;671;747;617;581
+I56;Food and beverage service activities  ;3,067;3,154;3,22;3,016;3,189;3,054;3,153;3,095;3,016;3,206;2,999;2,461
+J58;Publishing activities  ;64;68;65;46;58;57;41;62;54;39;39;40
+J59;Motion picture, video and television programme production, sound recording and music publishing activities  ;94;103;104;97;117;118;124;78;108;89;80;114
+J60;Programming and broadcasting activities  ;7;7;8;4;7;5;4;5;3;5;3;1
+J61;Telecommunications  ;29;26;25;29;20;27;21;16;26;13;10;8
+J62;Computer programming, consultancy and related activities  ;445;506;492;544;557;606;574;582;618;619;559;605
+J63;Information service activities  ;283;248;251;219;233;204;182;166;141;128;150;167
+K641);Financial service activities, except insurance and pension funding  ;32;35;40;41;38;47;10;10;16;4;13;16
+K65;Insurance, reinsurance and pension funding, except compulsory social security  ;5;6;13;6;2;1;5;1;5;1;4;1
+K66;Activities auxiliary to financial services and insurance activities  ;470;452;424;374;385;393;374;333;330;318;295;305
+L68;Real estate activities  ;448;437;445;409;504;502;976;762;605;640;643;684
+M69;Legal and accounting activities  ;457;482;590;617;509;445;498;493;445;442;397;438
+M72;Scientific research and development  ;76;88;76;104;73;74;75;70;66;96;85;74
+M73;Advertising and market research  ;465;512;525;560;568;540;477;466;433;456;462;404
+M74;Other professional, scientific and technical activities  ;284;289;321;300;346;367;284;317;303;325;303;284
+M75;Veterinary activities  ;70;71;68;70;71;67;68;69;73;66;60;52
+N77;Rental and leasing activities  ;170;161;150;153;170;150;137;152;120;121;139;123
+N78;Employment activities  ;148;134;121;109;118;132;113;108;106;91;97;101
+N79;Travel agency, tour operator and other reservation service and related activities  ;91;94;94;96;86;84;85;92;78;72;69;76
+N80;Security and investigation activities  ;33;40;46;37;45;47;43;35;25;30;25;23
+N81;Services to buildings and landscape activities  ;450;518;575;573;707;712;609;644;706;646;641;663
+N82;Office administrative, office support and other business support activities  ;224;194;203;228;228;282;222;236;205;233;203;230
+P85;Education  ;315;411;417;480;484;468;384;372;309;351;306;326
+Q86;Human health activities  ;795;884;900;869;1,017;924;974;1,061;1,121;1,135;1,101;1,058
+Q87;Residential care activities  ;19;24;25;27;27;24;15;15;17;9;4;7
+Q88;Social work activities without accommodation  ;150;138;168;131;127;127;93;86;109;93;86;88
+R90;Creative, arts and entertainment activities  ;165;200;208;191;224;221;189;163;158;174;165;173
+R91;Libraries, archives, museums and other cultural activities  ;23;15;17;15;15;7;5;9;6;6;6;3
+R92;Gambling and betting activities  ;43;48;50;62;71;42;27;31;21;11;14;19
+R93;Sports activities and amusement and recreation activities  ;303;357;346;416;397;352;267;277;292;260;260;253
+S94;Activities of membership organisations  ;330;396;411;404;389;409;215;223;156;76;62;35
+S95;Repair of computers and personal and household goods  ;71;69;88;88;79;72;56;51;52;66;53;59
+S96;Other personal service activities  ;712;759;747;712;776;815;761;760;777;921;876;834
