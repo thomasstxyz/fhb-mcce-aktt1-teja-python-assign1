@@ -60,9 +60,13 @@ industry_with_highest_number_of_enterprise_births = max(list_of_dict, key=lambda
 print('The industry which recorded the highest number of enterprise births is: ', industry_with_highest_number_of_enterprise_births['Industry sections and divisions'],
     'with a number of: ', industry_with_highest_number_of_enterprise_births['total_number_of_enterprise_births'])
 
-
 ## Q2: Was there an industry in which no enterprise births were recorded? If, yes, which industry was it (list all such industries)?
 
+print('The following industries had no enterprise births recorded:')
+# for each industry
+for idx, dict_item in enumerate(list_of_dict):
+    if list_of_dict[idx]['total_number_of_enterprise_births'] == 0:
+        print('-', list_of_dict[idx]['Industry sections and divisions'])
 
 ## Q3: Was there an industry or industries in which consistently increasing number of enterprise births were recorded? If, yes, list all such industries.
 
