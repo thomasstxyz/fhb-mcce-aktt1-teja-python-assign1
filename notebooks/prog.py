@@ -54,11 +54,16 @@ for idx, dict_item in enumerate(list_of_dict):
 
     list_of_dict[idx].update({'total_number_of_enterprise_births': total_number_of_enterprise_births})
 
-    # for Q4:
+    # for Q3:
     if sorted(number_of_enterprise_births__list) == number_of_enterprise_births__list and list_of_dict[idx]['total_number_of_enterprise_births'] != 0:
         list_of_dict[idx].update({'number_of_enterprise_births_is_ascending': True})
     else:
         list_of_dict[idx].update({'number_of_enterprise_births_is_ascending': False})
+
+    # for Q4:
+    average_number_of_enterprise_births = int(total_number_of_enterprise_births / len(number_of_enterprise_births__list))
+    list_of_dict[idx].update({'average_number_of_enterprise_births': average_number_of_enterprise_births})
+
 
 # get industry with highest number
 industry_with_highest_number_of_enterprise_births = max(list_of_dict, key=lambda x:x['total_number_of_enterprise_births'])
@@ -84,5 +89,11 @@ if any(item['number_of_enterprise_births_is_ascending'] == True for item in list
             print('-', list_of_dict[idx]['Industry sections and divisions'])
 
 ## Q4: Which industry recorded the highest average number of enterprise births year-on-year?
+
+industry_with_highest_average_number_of_enterprise_births = max(list_of_dict, key=lambda x:x['average_number_of_enterprise_births'])
+
+print('The industry which recorded the highest average number of enterprise births is: ', industry_with_highest_average_number_of_enterprise_births['Industry sections and divisions'],
+    'with a number of: ', industry_with_highest_average_number_of_enterprise_births['average_number_of_enterprise_births'])
+
 
 
