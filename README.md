@@ -1,3 +1,11 @@
+# Assignment 1
+
+Jupyter Notebook --> [notebooks/aktt1-teja-assignment1.ipynb](notebooks/aktt1-teja-assignment1.ipynb)
+
+
+
+# Run Jupyter Notebook in Docker
+
     docker run --rm -i -t -p 8888:8888 -v ${PWD}/notebooks:/opt/notebooks continuumio/anaconda3 /bin/sh -c "\                                                  ─╯
         apt-get update && \
         apt-get install -y locales && \
