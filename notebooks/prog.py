@@ -87,6 +87,8 @@ if any(item['number_of_enterprise_births_is_ascending'] == True for item in list
     for idx, dict_item in enumerate(list_of_dict):
         if list_of_dict[idx]['number_of_enterprise_births_is_ascending']:
             print('-', list_of_dict[idx]['Industry sections and divisions'])
+else:
+    print('There are no industries which had consistently increasing number of enterprise births.')
 
 ## Q4: Which industry recorded the highest average number of enterprise births year-on-year?
 
