@@ -1,6 +1,9 @@
-# Assignment 1
+# Assignments
 
-Jupyter Notebook --> [notebooks/aktt1-teja-assignment1.ipynb](notebooks/aktt1-teja-assignment1.ipynb)
+Assignment 1 --> [notebooks/aktt1-teja-assignment1.ipynb](notebooks/aktt1-teja-assignment1.ipynb)
+
+Assignment 2 --> [notebooks/aktt1-teja-assignment2.ipynb](notebooks/aktt1-teja-assignment2.ipynb)
+
 
 
 
